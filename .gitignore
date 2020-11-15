@@ -1,1 +1,2 @@
-file.txt
+*.log
+*[Ii]gnore[a-zA-Z0-9_+-]*.*
