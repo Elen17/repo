@@ -1,4 +1,4 @@
 *.log
 *[Ii]gnore[a-zA-Z0-9_+-]*.*
-repo/*[Ll]ogs/
-logs/**/*.log
+repo/**/[Ll]ogs/
+*/logs/**/*.log
